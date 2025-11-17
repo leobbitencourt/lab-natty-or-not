@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Analista de Negócio por IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa automatizar o processo de criação de documentações de RD (requisitos de desenvolvimento) a partir de transcrições de agendas do google Meet
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Firebase studio, React
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilização de prompt para criação de código através de ia com integração com o Firebase. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A aplicação passou a entender o contexto solicitado pelo negócio, gerando um docuemtnod e regras de processo e posteriormente gerando as RD's
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
